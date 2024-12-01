@@ -1,4 +1,4 @@
-Ecommerce de kiosco polirrubros
+Control de Stock de kiosco polirrubros
 
 Un polirrubro de muchos años, tiene la necesidad de acutalizarse o modernizarse desarrollando en software para el control de stock y ventas online.
 Ellos necesitan saber que productos ingresan de la tienda de manera fisica y digital, con sus códigos de productos, categorias, subcategorias, fechas de vencimiento y sus marcas.
